@@ -8,6 +8,8 @@ Tarefas Finalizadas:
 - [x] Tarefa 2
 - [x] Tarefa 3
 
+As atividades de consultas (Querys) e diagrama/explicações se encontram na pasta docs.
+
 ## 💻 Projeto .Net Core 5 (Web API)
 
 <teste-tecnico>
