@@ -1,0 +1,15 @@
+Microsserviços 
+
+	Microsserviço é um estilo de arquitetura para criação de aplicações dividida em sub serviços. 
+	Esses pequenos serviços são independentes e autossufientes em seu papel, isso é, cada serviço é dedicado a solção do problema especifico.
+	
+	Essa arquitetura tem por seu beneficio uma escalabilidade, visto o funcionamento independente para atender um unico recurso. 
+	E a alta disponibilidade por conta de seus recursos autonomos, até mesmo de sua concepção ao banco de dados.
+
+
+Exemplo: 
+	Um novo aplicativo e-commerce está sendo criado e a ideia é que em nenhum dos pedidos sejam perdidos ou que os clientes não consigam fazer suas compras 
+	(alta disponibilidade). As manutenções não podem parar a aplicação.
+	A partir desses principios, foi solicitado que seja utilizado a arquitetura de microsserviços
+	
+	
